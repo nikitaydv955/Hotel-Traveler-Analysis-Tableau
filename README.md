@@ -39,9 +39,7 @@ The dataset contains information related to hotels, travelers, reviews, ratings,
 
 The Tableau dashboard provides interactive visualizations for exploring hotel and traveler-related data.
 
-### Dashboard Preview
 
-![Hotel & Traveler Analysis Dashboard](Hotel_Traveler_Analysis_Dashboard.png)
 
 ## 💡 Skills Demonstrated
 
